@@ -2,13 +2,9 @@
 A learning-based NLP project that predicts possible next words using an LSTM neural network trained on Shakespeare's *Hamlet*.
 
 
-### Tech Stack
-Python · TensorFlow/Keras · NLTK · NumPy · Streamlit
-
-
 ### Live Demo
 [Try the Next-Word Prediction App]
-(YOUR_STREAMLIT_APP_LINK)
+https://lstm-next-word-prediction-c3dibh75csqhypwjrb8udb.streamlit.app/
 
 
 ### Limitations
